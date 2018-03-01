@@ -1,3 +1,5 @@
+package suibianjiaoshenme;
+
 public class Ride {
     public int index;
     public Position start;
